@@ -8,6 +8,8 @@
 
 Todos estos programas se deben ejecutar con Python3.
 
+-------------------
+
 ### Descripción:
 
 entropia_binaria.py
