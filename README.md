@@ -47,4 +47,4 @@ Donde: x_i = Valor del atributo i de una tupla x
 
   
   
-Este repositorio está abierto a incluir más tipos de calculadoras.
+*Este repositorio está abierto a incluir más tipos de calculadoras.
