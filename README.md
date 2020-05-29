@@ -7,3 +7,17 @@ Calculadoras variadas en lenguaje Python:
 4. Distancia euclídea al cuadrado (distancia_euclidea_2.py)
 
 Este repositorio está abierto a incluir más tipos de calculadoras.
+
+Descripción:
+
+entropia_binaria.py
+-------------------
+
+entropia_discreta.py
+--------------------
+
+entropia_condicional.py
+-----------------------
+
+distancia_euclidea_2.py
+-----------------------
