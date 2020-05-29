@@ -12,7 +12,7 @@ Descripción:
 
 entropia_binaria.py
 -------------------
-Al ejecutarlo, se debe introducir por teclado el valor de p.
+Al ejecutarlo, se debe introducir por teclado el valor de p.\n
 Calcula: H(X) = - (p)*(log_2(p)) - (q)*(log_2(q))
 Donde: q = 1 - p
 
