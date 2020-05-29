@@ -46,5 +46,5 @@ Donde: x_i = Valor del atributo i de una tupla x
        test_i = Valor del atributo i del test que se compara con x  
 
   
-  
+-----------------------
 *Este repositorio está abierto a incluir más tipos de calculadoras.*
