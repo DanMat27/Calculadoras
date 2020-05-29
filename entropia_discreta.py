@@ -1,6 +1,12 @@
-#ENTROPIAS DE VARIABLES DISCRETAS
-#Calcula:
-# H(X) = - sum_i=1^n (p_i)*(log_2(p_i))
+###########################################
+# Author: DanMat27
+# Date: 29/05/2020
+# File: entropia_discreta.py
+# Description:
+#  ENTROPIAS DE VARIABLES DISCRETAS
+#  Calcula:
+#  H(X) = - sum_i=1^n (p_i)*(log_2(p_i))
+###########################################
 import math 
 
 print("#################################")

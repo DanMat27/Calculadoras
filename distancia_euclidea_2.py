@@ -1,9 +1,15 @@
-#DISTANCIA EUCLIDE AL CUADRADO (d^2)
-#Calcula:
-# d^2 = sum_i=1^n (x_i - test_i)^2
-#Donde:
-# x_i = Valor del atributo i de una tupla x 
-# test_i = Valor del atributo i del test que se compara con x
+################################################################
+# Author: DanMat27
+# Date: 29/05/2020
+# File: distancia_euclidea_2.py
+# Description:
+#  DISTANCIA EUCLIDEA AL CUADRADO (d^2)
+#  Calcula:
+#   d^2 = sum_i=1^n (x_i - test_i)^2
+#  Donde:
+#   x_i = Valor del atributo i de una tupla x 
+#   test_i = Valor del atributo i del test que se compara con x
+################################################################
 import math 
 
 print("#################################")

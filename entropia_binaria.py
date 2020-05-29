@@ -1,8 +1,14 @@
-#ENTROPIAS DE VARIABLES BINARIAS
-#Calcula:
-# H(X) = - (p)*(log_2(p)) - (q)*(log_2(q))
-#Donde:
-# q = 1 - p
+##############################################
+# Author: DanMat27
+# Date: 29/05/2020
+# File: entropia_binaria.py
+# Description:
+#  ENTROPIAS DE VARIABLES BINARIAS
+#  Calcula:
+#  H(X) = - (p)*(log_2(p)) - (q)*(log_2(q))
+#  Donde:
+#  q = 1 - p
+##############################################
 import math 
 
 print("#################################")

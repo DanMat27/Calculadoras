@@ -1,13 +1,19 @@
-#ENTROPIA CONDICIONAL
-#Calcula:
-# H(Y|X) = sum_i=1^n (p_i)*H(p_cond_i,q_cond_i)
-#Donde:
-# p_i = Probabilidad P[X=x_i] en datos totales
-# == De los valores de X, cuantos son iguales a x_i sobre el total
-# p_cond_i = Probabilidad P[Y|X=x_i] condicionada por clase Y
-# == De los valores de X iguales a x_i, cuantos tienen la clase Y buena (1, sí...)
-# q_cond_i = 1 - p_cond_i
-# == De los valores de X iguales a x_i, cuantos tienen la clase Y contraria (0, No...)
+#########################################################################################
+# Author: DanMat27
+# Date: 29/05/2020
+# File: entropia_condicional.py
+# Description:
+#  ENTROPIAS CONDICIONALES
+#  Calcula:
+#   H(Y|X) = sum_i=1^n (p_i)*H(p_cond_i,q_cond_i)
+#  Donde:
+#   p_i = Probabilidad P[X=x_i] en datos totales
+#   == De los valores de X, cuantos son iguales a x_i sobre el total
+#   p_cond_i = Probabilidad P[Y|X=x_i] condicionada por clase Y
+#   == De los valores de X iguales a x_i, cuantos tienen la clase Y buena (1, sí...)
+#   q_cond_i = 1 - p_cond_i
+#   == De los valores de X iguales a x_i, cuantos tienen la clase Y contraria (0, No...)
+#########################################################################################
 import math 
 
 print("#################################")
