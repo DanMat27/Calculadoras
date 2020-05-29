@@ -1,5 +1,5 @@
 # Calculadoras
----- Calculadoras variadas en lenguaje Python: 
+#### Calculadoras variadas en lenguaje Python: 
 
 1. Entropía de variables binarias (entropia_binaria.py)
 2. Entropía de variables discretas (entropia_discreta.py)
