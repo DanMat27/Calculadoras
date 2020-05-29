@@ -6,8 +6,6 @@
 3. Entropía condicional (entropia_condicional.py)
 4. Distancia euclídea al cuadrado (distancia_euclidea_2.py)
 
-Todos estos programas se deben ejecutar con Python3.
-
 -------------------
 
 ### Descripción:
